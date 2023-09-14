@@ -9,6 +9,6 @@ Maker Media GmbH
 
 Ergänzend zum Artikel aus der Make 5/23 findest du hier den benötigten MicroPython-Code für den ESP-Mikrocontroller.
 
-![Picture](https://github.com/MakeMagazinDE/Werkstatt-Organizer/blob/main/werkstattorganizer_title_tilted.jpg)
+![Picture](https://github.com/MakeMagazinDE/Werkstatt-Organizer/blob/main/werkstattOrganizer_title_tilted.jpg)
 
 Den Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 5/22 ab Seite XX](https://www.heise.de/select/make/2023/5)** zu lesen.
